@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Developer/projects"
+		},
+		{
+			"name": ".leetcode",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp"
+		}
+	}
+}
