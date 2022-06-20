@@ -6,5 +6,6 @@
             "folder": "",
             "filename": "${id}.${kebab-case-name}.${ext}"
         }
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
